@@ -2,11 +2,6 @@
 
 A simple Rock-Paper-Scissors game implemented using HTML, CSS, and JavaScript.
 
-## Table of Contents
-
-- [Features](#features)
-- [How to Play](#how-to-play)
-
 ## Features
 
 - Classic Rock-Paper-Scissors game.
